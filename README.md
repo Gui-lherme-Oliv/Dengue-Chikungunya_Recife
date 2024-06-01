@@ -19,7 +19,7 @@ A Secretaria de Saúde do Recife disponibiliza publicamente o registro dos casos
 **2.2.** Foi adicionado o atributo 'doenca' para sinalizar qual doença está sendo tratada nos dados.  
 **2.3.** Foram selecionados apenas alguns atributos de cada planilha considerados relevantes para essa na análise, incluindo o atributo adicionado anteriormente.  
 **2.4.** Todos os arquivos foram concatenados em um único DataFrame.  
-**2.5.** Foi realizada uma análise inicial para identificar valores ausentes ou nulos e valores duplicados, além de uma análise estatística para entender o comportamento dos atributos.
+**2.5.** Foi realizada uma análise inicial para identificar valores ausentes/nulos e valores duplicados, além de uma análise estatística para entender o comportamento dos atributos.  
 **2.6.** O resultado do arquivo concatenado foi exportado em formato CSV, denominado 'planilha_chikon-dengon_concat'.
 
 ## 3. Importação no Power BI
