@@ -25,10 +25,13 @@ A Secretaria de Saúde do Recife disponibiliza publicamente o registro dos casos
 **3.2.** Estabelecido os relacionamentos entre a tabela fato (ocorrências de doença) e as tabelas dimensão (bairro e distrito).
 
 ## 4. Tratamento de dados
-**4.1.** Foi realizada uma correção dos dados que se encontravam com caracteres especiais ou com nome das observações errado.
-**4.2.** Feita a limpeza de dados para remover espaçamentos e caracteres indesejados.
-**4.2.** Realizada a conversão de tipos de dados.
-**4.3** Criadas colunas para a conversão de dados numéricos em dados categóricos e colunas para armazenar resultados de cálculos que serviram como novos atributos necessários para a análise.
+**4.1.** Foi realizada uma correção dos dados que se encontravam com caracteres especiais ou com nome das observações errado.  
+**4.2.** Feita a limpeza de dados para remover espaçamentos e caracteres indesejados.  
+**4.3.** Realizada a conversão de tipos de dados.  
+**4.4.** Criados diferentes tipos de colunas na tabela fato:
+         - Colunas para a conversão de dados numéricos em dados categóricos;
+         - Colunas para armazenar resultados de cálculos que serviram como novos atributos necessários para a análise.;
+         - Coluna 'periodo' para indicar se o período é seco ou chuvoso, considerando o mês da coluna 'dt_notificacao'. Mar-ago é o período chuvoso e set-fev é o período seco.
 
 ## Observações
 O atributo “tp_escolaridade” que representa a série e grau que a pessoa está frequentando ou frequentou considerando a última série concluída com aprovação ou grau de instrução do paciente por ocasião da notificação, foi o que apresentou a maior quantidade de valores nulos, quase 20% do valor total, porcentagem essa com grande discrepância em relação aos valores nulos encontrados em outros atributos. Utilizei esse atributo para apresentar esse visual, pois se trata de um projeto para um processo seletivo, mas seria necessário entrar em contato com a gerência de negócios ou alguém responsável para saber se esse dado deveria ser usado em algum tipo de análise.
