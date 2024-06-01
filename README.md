@@ -42,7 +42,7 @@ A Secretaria de Saúde do Recife disponibiliza publicamente o registro dos casos
 
 Profissionais de saúde e da área social desempenham papéis distintos, porém igualmente cruciais, no enfrentamento das arboviroses. Os profissionais de saúde oferecem diagnóstico, tratamento e monitoramento epidemiológico das doenças, garantindo cuidados médicos especializados e intervenções clínicas precisas. Enquanto isso, os profissionais da área social focam nos determinantes sociais da saúde, promovendo engajamento comunitário, advocacia por políticas públicas e apoio psicossocial às comunidades afetadas. A contribuição independente de cada grupo é essencial: os profissionais de saúde garantem a eficácia dos tratamentos e a gestão clínica das arboviroses, enquanto os profissionais da área social abordam as raízes socioeconômicas da propagação das doenças, promovendo mudanças estruturais necessárias para a prevenção e controle a longo prazo. Juntos, esses profissionais formam uma equipe multidisciplinar capaz de enfrentar os desafios complexos das arboviroses, protegendo a saúde e o bem-estar das comunidades.
 
-# Dashboard criado
+## Dashboard criado
 ![Projeto_SESAU-Recife-1](https://github.com/Gui-lherme-Oliv/Dengue-Chikungunya_Recife/assets/123426025/8ce4a305-56b0-4088-8b8b-4e7b14dde38b)
 
 
